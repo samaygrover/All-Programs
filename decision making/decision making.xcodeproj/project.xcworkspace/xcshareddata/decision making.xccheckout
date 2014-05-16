@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>5E344EC8-67C6-4DFA-9C79-A9B1254ADEDA</string>
+	<string>EDD6A67E-365E-4C46-9D80-BE8AC6144541</string>
 	<key>IDESourceControlProjectName</key>
-	<string>tempreature</string>
+	<string>decision making</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9D0C4151-B34C-4AF3-8B14-86ACE80FEDF5</key>
+		<key>DC086EEC-73B7-420C-A19F-D0989CDA0640</key>
 		<string>https://github.com/samaygrover/All-Programs.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>tempreature/tempreature.xcodeproj/project.xcworkspace</string>
+	<string>decision making/decision making.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9D0C4151-B34C-4AF3-8B14-86ACE80FEDF5</key>
+		<key>DC086EEC-73B7-420C-A19F-D0989CDA0640</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9D0C4151-B34C-4AF3-8B14-86ACE80FEDF5</string>
+	<string>DC086EEC-73B7-420C-A19F-D0989CDA0640</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9D0C4151-B34C-4AF3-8B14-86ACE80FEDF5</string>
+			<string>DC086EEC-73B7-420C-A19F-D0989CDA0640</string>
 			<key>IDESourceControlWCCName</key>
 			<string>All-Programs</string>
 		</dict>

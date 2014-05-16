@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "465649171922AD1F00154805"
-               BuildableName = "tempreature"
-               BlueprintName = "tempreature"
-               ReferencedContainer = "container:tempreature.xcodeproj">
+               BlueprintIdentifier = "464D7ABB192688D800FC2FC0"
+               BuildableName = "decision making"
+               BlueprintName = "decision making"
+               ReferencedContainer = "container:decision making.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "465649171922AD1F00154805"
-            BuildableName = "tempreature"
-            BlueprintName = "tempreature"
-            ReferencedContainer = "container:tempreature.xcodeproj">
+            BlueprintIdentifier = "464D7ABB192688D800FC2FC0"
+            BuildableName = "decision making"
+            BlueprintName = "decision making"
+            ReferencedContainer = "container:decision making.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "465649171922AD1F00154805"
-            BuildableName = "tempreature"
-            BlueprintName = "tempreature"
-            ReferencedContainer = "container:tempreature.xcodeproj">
+            BlueprintIdentifier = "464D7ABB192688D800FC2FC0"
+            BuildableName = "decision making"
+            BlueprintName = "decision making"
+            ReferencedContainer = "container:decision making.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "465649171922AD1F00154805"
-            BuildableName = "tempreature"
-            BlueprintName = "tempreature"
-            ReferencedContainer = "container:tempreature.xcodeproj">
+            BlueprintIdentifier = "464D7ABB192688D800FC2FC0"
+            BuildableName = "decision making"
+            BlueprintName = "decision making"
+            ReferencedContainer = "container:decision making.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

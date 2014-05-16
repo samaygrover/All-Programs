@@ -7,83 +7,83 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4656491C1922AD1F00154805 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4656491B1922AD1F00154805 /* Foundation.framework */; };
-		4656491F1922AD1F00154805 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4656491E1922AD1F00154805 /* main.m */; };
-		465649231922AD1F00154805 /* tempreature.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 465649221922AD1F00154805 /* tempreature.1 */; };
+		464D7AC0192688D800FC2FC0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 464D7ABF192688D800FC2FC0 /* Foundation.framework */; };
+		464D7AC3192688D800FC2FC0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 464D7AC2192688D800FC2FC0 /* main.m */; };
+		464D7AC7192688D800FC2FC0 /* decision_making.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 464D7AC6192688D800FC2FC0 /* decision_making.1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		465649161922AD1F00154805 /* CopyFiles */ = {
+		464D7ABA192688D800FC2FC0 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				465649231922AD1F00154805 /* tempreature.1 in CopyFiles */,
+				464D7AC7192688D800FC2FC0 /* decision_making.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		465649181922AD1F00154805 /* tempreature */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = tempreature; sourceTree = BUILT_PRODUCTS_DIR; };
-		4656491B1922AD1F00154805 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		4656491E1922AD1F00154805 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		465649211922AD1F00154805 /* tempreature-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "tempreature-Prefix.pch"; sourceTree = "<group>"; };
-		465649221922AD1F00154805 /* tempreature.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = tempreature.1; sourceTree = "<group>"; };
+		464D7ABC192688D800FC2FC0 /* decision making */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "decision making"; sourceTree = BUILT_PRODUCTS_DIR; };
+		464D7ABF192688D800FC2FC0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		464D7AC2192688D800FC2FC0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		464D7AC5192688D800FC2FC0 /* decision making-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "decision making-Prefix.pch"; sourceTree = "<group>"; };
+		464D7AC6192688D800FC2FC0 /* decision_making.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = decision_making.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		465649151922AD1F00154805 /* Frameworks */ = {
+		464D7AB9192688D800FC2FC0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4656491C1922AD1F00154805 /* Foundation.framework in Frameworks */,
+				464D7AC0192688D800FC2FC0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4656490F1922AD1F00154805 = {
+		464D7AB3192688D800FC2FC0 = {
 			isa = PBXGroup;
 			children = (
-				4656491D1922AD1F00154805 /* tempreature */,
-				4656491A1922AD1F00154805 /* Frameworks */,
-				465649191922AD1F00154805 /* Products */,
+				464D7AC1192688D800FC2FC0 /* decision making */,
+				464D7ABE192688D800FC2FC0 /* Frameworks */,
+				464D7ABD192688D800FC2FC0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		465649191922AD1F00154805 /* Products */ = {
+		464D7ABD192688D800FC2FC0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				465649181922AD1F00154805 /* tempreature */,
+				464D7ABC192688D800FC2FC0 /* decision making */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4656491A1922AD1F00154805 /* Frameworks */ = {
+		464D7ABE192688D800FC2FC0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4656491B1922AD1F00154805 /* Foundation.framework */,
+				464D7ABF192688D800FC2FC0 /* Foundation.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		4656491D1922AD1F00154805 /* tempreature */ = {
+		464D7AC1192688D800FC2FC0 /* decision making */ = {
 			isa = PBXGroup;
 			children = (
-				4656491E1922AD1F00154805 /* main.m */,
-				465649221922AD1F00154805 /* tempreature.1 */,
-				465649201922AD1F00154805 /* Supporting Files */,
+				464D7AC2192688D800FC2FC0 /* main.m */,
+				464D7AC6192688D800FC2FC0 /* decision_making.1 */,
+				464D7AC4192688D800FC2FC0 /* Supporting Files */,
 			);
-			path = tempreature;
+			path = "decision making";
 			sourceTree = "<group>";
 		};
-		465649201922AD1F00154805 /* Supporting Files */ = {
+		464D7AC4192688D800FC2FC0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				465649211922AD1F00154805 /* tempreature-Prefix.pch */,
+				464D7AC5192688D800FC2FC0 /* decision making-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -91,62 +91,62 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		465649171922AD1F00154805 /* tempreature */ = {
+		464D7ABB192688D800FC2FC0 /* decision making */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 465649261922AD1F00154805 /* Build configuration list for PBXNativeTarget "tempreature" */;
+			buildConfigurationList = 464D7ACA192688D800FC2FC0 /* Build configuration list for PBXNativeTarget "decision making" */;
 			buildPhases = (
-				465649141922AD1F00154805 /* Sources */,
-				465649151922AD1F00154805 /* Frameworks */,
-				465649161922AD1F00154805 /* CopyFiles */,
+				464D7AB8192688D800FC2FC0 /* Sources */,
+				464D7AB9192688D800FC2FC0 /* Frameworks */,
+				464D7ABA192688D800FC2FC0 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = tempreature;
-			productName = tempreature;
-			productReference = 465649181922AD1F00154805 /* tempreature */;
+			name = "decision making";
+			productName = "decision making";
+			productReference = 464D7ABC192688D800FC2FC0 /* decision making */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		465649101922AD1F00154805 /* Project object */ = {
+		464D7AB4192688D800FC2FC0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "___FULLUSERNAME___";
 			};
-			buildConfigurationList = 465649131922AD1F00154805 /* Build configuration list for PBXProject "tempreature" */;
+			buildConfigurationList = 464D7AB7192688D800FC2FC0 /* Build configuration list for PBXProject "decision making" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 4656490F1922AD1F00154805;
-			productRefGroup = 465649191922AD1F00154805 /* Products */;
+			mainGroup = 464D7AB3192688D800FC2FC0;
+			productRefGroup = 464D7ABD192688D800FC2FC0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				465649171922AD1F00154805 /* tempreature */,
+				464D7ABB192688D800FC2FC0 /* decision making */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		465649141922AD1F00154805 /* Sources */ = {
+		464D7AB8192688D800FC2FC0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4656491F1922AD1F00154805 /* main.m in Sources */,
+				464D7AC3192688D800FC2FC0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		465649241922AD1F00154805 /* Debug */ = {
+		464D7AC8192688D800FC2FC0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -184,7 +184,7 @@
 			};
 			name = Debug;
 		};
-		465649251922AD1F00154805 /* Release */ = {
+		464D7AC9192688D800FC2FC0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,20 +216,20 @@
 			};
 			name = Release;
 		};
-		465649271922AD1F00154805 /* Debug */ = {
+		464D7ACB192688D800FC2FC0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "tempreature/tempreature-Prefix.pch";
+				GCC_PREFIX_HEADER = "decision making/decision making-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		465649281922AD1F00154805 /* Release */ = {
+		464D7ACC192688D800FC2FC0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "tempreature/tempreature-Prefix.pch";
+				GCC_PREFIX_HEADER = "decision making/decision making-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -237,24 +237,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		465649131922AD1F00154805 /* Build configuration list for PBXProject "tempreature" */ = {
+		464D7AB7192688D800FC2FC0 /* Build configuration list for PBXProject "decision making" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				465649241922AD1F00154805 /* Debug */,
-				465649251922AD1F00154805 /* Release */,
+				464D7AC8192688D800FC2FC0 /* Debug */,
+				464D7AC9192688D800FC2FC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		465649261922AD1F00154805 /* Build configuration list for PBXNativeTarget "tempreature" */ = {
+		464D7ACA192688D800FC2FC0 /* Build configuration list for PBXNativeTarget "decision making" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				465649271922AD1F00154805 /* Debug */,
-				465649281922AD1F00154805 /* Release */,
+				464D7ACB192688D800FC2FC0 /* Debug */,
+				464D7ACC192688D800FC2FC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 465649101922AD1F00154805 /* Project object */;
+	rootObject = 464D7AB4192688D800FC2FC0 /* Project object */;
 }
