@@ -15,10 +15,11 @@ int main (int argc, char * argv[])
     @autoreleasepool {
         int p, d, isPrime;
         
-        for ( p = 2; p <= 50; ++p ) {
+        for ( p = 2; p <= 50; ++p )
+        {
             isPrime = 1;
             
-            for ( d = 2; d < p; ++d )
+            for ( d = 2; d < p;
                 if ( p % d == 0 )
                     isPrime = 0;
             
